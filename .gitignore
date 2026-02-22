@@ -26,6 +26,12 @@ coverage
 out/
 build
 dist
+
+# Allow package dist directories (committed for git-based consumption)
+!packages/core/dist
+!packages/react/dist
+!packages/visualizer/dist
+!packages/plugins/*/dist
 storybook-static
 
 # Debug

@@ -1,0 +1,1 @@
+{"version":3,"file":"parsing-error.d.ts","sourceRoot":"","sources":["../../../src/parser/parsing-error.ts"],"names":[],"mappings":"AAAA,MAAM,CAAC,OAAO,OAAO,YAAa,SAAQ,KAAK;IAGhC,KAAK,CAAC,EAAE,OAAO;gBADtB,OAAO,EAAE,MAAM,EACR,KAAK,CAAC,EAAE,OAAO,YAAA;CAK7B"}
